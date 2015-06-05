@@ -9,6 +9,6 @@ package cit360.model;
  *
  * @author SexyMama
  */
-public class MPHControl {
+public class MPGControl {
     
 }
