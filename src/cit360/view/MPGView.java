@@ -5,6 +5,9 @@
  */
 package cit360.view;
 
+import cit360.model.EnterName;
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author SexyMama
