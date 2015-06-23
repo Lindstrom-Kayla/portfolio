@@ -34,6 +34,7 @@ public class CIT360 {
                 welcomePageView.dispose();
             }
         }
+        
         /*String nameOne = null;
          String UserNames[] = {nameOne};
 

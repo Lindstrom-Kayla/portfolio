@@ -13,6 +13,9 @@ import java.util.Scanner;
  */
 public class EnterName {
 
+    
+
+    
     String enterName;
     String UserName = enterName;
 
@@ -41,6 +44,8 @@ public class EnterName {
 
     public void setUserName(String UserName) {
         this.UserName = UserName;
+        
+            JSONObject root = new JSONObject();
     }
 
 }
