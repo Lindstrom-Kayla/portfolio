@@ -1,0 +1,8 @@
+From what I have read and understand is that the application controller pattern 
+is that it does have some similarities with the MVC pattern.  However, with the 
+controller is used for all for the direction within you application.  With the 
+application controller pattern it seems that instead of creating a view with 
+similar buttons to do the same thing but maybe bring a different page instead 
+you would create a different class that would control everything and bring up 
+the correct page with only one function. In other words, the ACP is a design to 
+go from view to view more easily and with less coding involved.  
