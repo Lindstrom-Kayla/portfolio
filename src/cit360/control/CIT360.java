@@ -20,6 +20,7 @@ public class CIT360 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+    
         WelcomePageView welcomePageView = new WelcomePageView();
 
         try {
@@ -34,7 +35,7 @@ public class CIT360 {
                 welcomePageView.dispose();
             }
         }
-        
+
         /*String nameOne = null;
          String UserNames[] = {nameOne};
 
